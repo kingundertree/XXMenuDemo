@@ -74,3 +74,12 @@ https://github.com/kingundertree/XXMenuDemo
 主视图的所有交互通过XXMenuVC实现
 	
 	[XXAppDelegate sharedAppDelegate].XXMenuVC
+
+
+###swift版本
+
+####github地址
+
+	https://github.com/kingundertree/XXMenuBySwiftDemo
+	
+只实现主要功能，包括手势控制和左右菜单显示和隐藏
